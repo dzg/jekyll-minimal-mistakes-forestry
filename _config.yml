@@ -305,4 +305,3 @@ defaults:
       share: true
       comment: true
 
-theme: jekyll-theme-minimal
